@@ -77,7 +77,9 @@ Power BI Desktop
 → Build relationships between tables
 → Create interactive dashboard with 5 visuals + slicers
 ```
+python -- ![github link](https://github.com/faridah-portfolio/stock-analysis/blob/97cfb91e67305b1ac1a833797e63946730f0ee18/farida%20sql%20import-checkpoint.ipynb)
 
+SQL--- ![github link](
 ---
 
 ## 🧹 Data Cleaning (SQL)
