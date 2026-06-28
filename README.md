@@ -78,8 +78,10 @@ Power BI Desktop
 → Create interactive dashboard with 5 visuals + slicers
 ```
 PYTHON  -- ![github link](https://github.com/faridah-portfolio/stock-analysis/blob/97cfb91e67305b1ac1a833797e63946730f0ee18/farida%20sql%20import-checkpoint.ipyn)
+
 SQL--- ![github link](https://github.com/faridah-portfolio/stock-analysis/blob/71cdee2daf7be08133b5154c09e3c1589098cef2/stock%20analysis.sql)
 
+![powerbi](https://github.com/faridah-portfolio/stock-analysis/blob/077f5027172663ae4f57a8f8aa790c7c8873122c/Untitled%20-%20Power%20BI%20Desktop%206_28_2026%2011_20_16%20AM.png)
 
 ---
 
